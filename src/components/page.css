@@ -1,0 +1,30 @@
+@charset "utf-8";
+.page{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.page > div{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home{
+  background-color: red;
+}
+
+.A{
+  background-color: blue;
+}
+
+.B{
+  background-color: yellow;
+}
+
+.C{
+  background-color: green;
+}
